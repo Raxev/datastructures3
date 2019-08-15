@@ -1,0 +1,37 @@
+(1) Read in original file: FDREconomics.txt
+    Print the original file:
+
+(2) Encrypt original file using key: 'I love the USA!!'
+
+(3) Write out the encrypted file without compression
+    Encrypted original file: FDREconomicsEncrypt.txt
+
+(4) Read in encrypted original file: FDREconomicsEncrypt.txt
+    Decrypt original file using key: 'I love the USA!!'
+    Print out decrypted original file:
+
+(5) Write out the decrypted file without compression
+    Decrypted original file: FDREconomicsDecrypt.txt
+
+(6) Compress the original file without encryption
+    Write out the file compressed without encryption
+    Compressed original file: FDREconomicsComp.dat
+
+(7) Read in compressed original file without encryption
+    Decompress original file without encryption
+    Print out decompressed original file without encryption
+
+(8) Encrypt original file using key: 'I love the USA!!'
+
+(9) Compress the encrypted file and Write out the compressed encrypted file
+    Compressed encrypted file: FDREconomicsEncryptComp.dat
+
+(10) Read in compressed encrypted file
+     Compressed encrypted file: FDREconomicsEncryptComp.dat
+     Decompress compressed encrypted file
+
+(11) Decrypt decompressed file using key: 'I love the USA!!'
+     Print out decrypted decompressed file
+
+(12) Write out the decrypted decompressed file
+     Decrypted decompressed file: FDREconomicsDecryptComp.txt
